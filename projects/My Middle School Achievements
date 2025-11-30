@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Pine Lake Middle School — Samuel Adeniyi</title><link href="../assets/styles.css" rel="stylesheet"></head>
+<body>
+<header class="site-header"><div class="container header-inner"><a class="brand" href="/">Samuel Adeniyi</a></div></header>
+<main class="container section">
+  <h1>Pine Lake Middle School</h1>
+  <div class="card">
+    <h2>Achievements</h2>
+    <ul>
+      <li>Recognized by the Pine Lake Honor Society for academic excellence</li>
+      <li>Delivered the graduation speech as the student body representative</li>
+      <li>Served as Compass Leader, supporting incoming freshmen during transition</li>
+    </ul>
+  </div>
+</main>
+<footer class="site-footer container"><p>© <span id="year"></span> Samuel Adeniyi</p></footer>
+<script src="../assets/script.js" defer></script>
+</body>
+</html>
