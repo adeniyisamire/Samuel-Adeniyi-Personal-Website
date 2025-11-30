@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Solar Energy Project — Samuel Adeniyi</title>
+  <link href="../assets/styles.css" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">Samuel Adeniyi</a>
+    </div>
+  </header>
+
+  <main class="container section">
+    <h1>Solar Power Electricity Project — Nigeria</h1>
+    <div class="card">
+      <h2>Overview</h2>
+      <p>I led a solar electricity passion project to provide reliable power to local households in Nigeria. The aim was to enable extended study hours and improve quality of life.</p>
+
+      <h2>What I did</h2>
+      <ul>
+        <li>Coordinated procurement and installation of solar panels and batteries</li>
+        <li>Worked with local stakeholders and volunteers to train maintenance procedures</li>
+        <li>Documented outcomes and shared lessons to help a neighboring school adopt solar power</li>
+      </ul>
+
+      <h2>Impact</h2>
+      <p>Families reported additional study time each evening and improved access to lights and basic electronics; the project inspired wider adoption in the local education community.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer container">
+    <p>© <span id="year"></span> Samuel Adeniyi</p>
+  </footer>
+
+  <script src="../assets/script.js" defer></script>
+</body>
+</html>
