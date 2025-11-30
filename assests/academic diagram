@@ -1,0 +1,29 @@
+<!-- assets/academic-diagram.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="#071028"/>
+  <g transform="translate(60,40)" fill="#fff" font-family="Inter, Arial, sans-serif">
+    <line x1="0" y1="120" x2="1080" y2="120" stroke="url(#g)" stroke-width="4" stroke-linecap="round"/>
+    <!-- Pine Lake 2024 -->
+    <circle cx="60" cy="120" r="10" fill="url(#g)"/>
+    <text x="60" y="95" text-anchor="middle" font-size="12">Pine Lake MS</text>
+    <text x="60" y="145" text-anchor="middle" font-size="11" fill="#9aa4b2">Graduated 2024</text>
+    <!-- Achievement marker -->
+    <circle cx="360" cy="120" r="10" fill="url(#g)"/>
+    <text x="360" y="95" text-anchor="middle" font-size="12">Solar Project</text>
+    <text x="360" y="145" text-anchor="middle" font-size="11" fill="#9aa4b2">Community Impact</text>
+    <!-- Skyline 2028 -->
+    <circle cx="660" cy="120" r="10" fill="url(#g)"/>
+    <text x="660" y="95" text-anchor="middle" font-size="12">Skyline HS</text>
+    <text x="660" y="145" text-anchor="middle" font-size="11" fill="#9aa4b2">GPA 3.957 (2028)</text>
+    <!-- Robotics Worlds -->
+    <circle cx="960" cy="120" r="10" fill="url(#g)"/>
+    <text x="960" y="95" text-anchor="middle" font-size="12">FRC Worlds</text>
+    <text x="960" y="145" text-anchor="middle" font-size="11" fill="#9aa4b2">Outreach & Build</text>
+  </g>
+</svg>
