@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>ASB Director — Samuel Adeniyi</title><link href="../assets/styles.css" rel="stylesheet"></head>
+<body>
+<header class="site-header"><div class="container header-inner"><a class="brand" href="/">Samuel Adeniyi</a></div></header>
+<main class="container section">
+  <h1>ASB — Director of Communications</h1>
+  <div class="card">
+    <h2>Role & Responsibilities</h2>
+    <p>Elected to manage school communications, advertising campaigns, recognition programs, and engagement initiatives across student groups.</p>
+    <h2>Selected Projects</h2>
+    <ul>
+      <li>Designed communication templates and social media content</li>
+      <li>Organized school-wide recognition programs and events</li>
+      <li>Coordinated with ASB advisors and student groups for outreach</li>
+    </ul>
+  </div>
+</main>
+<footer class="site-footer container"><p>© <span id="year"></span> Samuel Adeniyi</p></footer>
+<script src="../assets/script.js" defer></script>
+</body>
+</html>
