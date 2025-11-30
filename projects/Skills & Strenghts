@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Skills & Strengths — Samuel Adeniyi</title><link href="../assets/styles.css" rel="stylesheet"></head>
+<body>
+<header class="site-header"><div class="container header-inner"><a class="brand" href="/">Samuel Adeniyi</a></div></header>
+<main class="container section">
+  <h1>Skills & Strengths</h1>
+  <div class="card">
+    <ul>
+      <li><strong>Leadership & Communication:</strong> Elected ASB Director of Communications; experienced in public speaking and organizing campaigns.</li>
+      <li><strong>Problem-Solving & Critical Thinking:</strong> Robotics & engineering experience with hands-on troubleshooting.</li>
+      <li><strong>Team Collaboration & Sportsmanship:</strong> Robotics teams and soccer teamwork.</li>
+      <li><strong>Creativity & Artistic Talent:</strong> Piano and choir performance and artistic practice.</li>
+      <li><strong>Mentorship & Community Engagement:</strong> Middle-school mentor and sports camp leader.</li>
+      <li><strong>Resilience & Time Management:</strong> Effectively balancing academics, extracurriculars, and family duties.</li>
+      <li><strong>Adaptability & Growth Mindset:</strong> Eager to learn and take on new challenges.</li>
+    </ul>
+  </div>
+</main>
+<footer class="site-footer container"><p>© <span id="year"></span> Samuel Adeniyi</p></footer>
+<script src="../assets/script.js" defer></script>
+</body>
+</html>
