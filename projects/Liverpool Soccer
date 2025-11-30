@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Soccer — Samuel Adeniyi</title><link href="../assets/styles.css" rel="stylesheet"></head>
+<body>
+<header class="site-header"><div class="container header-inner"><a class="brand" href="/">Samuel Adeniyi</a></div></header>
+<main class="container section">
+  <h1>Football — Liverpool Soccer Club</h1>
+  <div class="card">
+    <p>Member of Liverpool Soccer Club; emphasize teamwork, fitness, strategy, and leadership on and off the field.</p>
+  </div>
+</main>
+<footer class="site-footer container"><p>© <span id="year"></span> Samuel Adeniyi</p></footer>
+<script src="../assets/script.js" defer></script>
+</body>
+</html>
