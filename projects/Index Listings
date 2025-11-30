@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Achievements — Samuel Adeniyi</title>
+  <link href="../assets/styles.css" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">Samuel Adeniyi</a>
+      <nav class="nav" id="nav">
+        <ul>
+          <li><a href="../#about">About</a></li>
+          <li><a href="../#achievements">Achievements</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container section">
+    <h1>All Achievements</h1>
+    <p class="small muted">A collection of my leadership, awards, and projects. Click any card for details.</p>
+
+    <div class="achievement-grid" style="margin-top:18px">
+      <!-- Link cards to each subpage -->
+      <article class="card">
+        <h3>Skyline High School — Academic Excellence</h3>
+        <p>Expected Graduation: June 2028 · GPA: 3.957</p>
+        <a class="btn btn-outline" href="skyline-high-school.html">Open</a>
+      </article>
+
+      <article class="card">
+        <h3>Pine Lake Middle School</h3>
+        <p>Graduated June 2024 · Honor Society · Graduation speaker</p>
+        <a class="btn btn-outline" href="pine-lake-middle-school.html">Open</a>
+      </article>
+
+      <article class="card">
+        <h3>ASB — Director of Communications</h3>
+        <p>Elected role (2026) — student communications & engagement</p>
+        <a class="btn btn-outline" href="asb-director-communications.html">Open</a>
+      </article>
+
+      <article class="card">
+        <h3>Robotics Club (2976)</h3>
+        <p>Build & electronics, outreach — FRC Worlds participation.</p>
+        <a class="btn btn-outline" href="robotics-club.html">Open</a>
+      </article>
+
+      <article class="card">
+        <h3>Music — Piano & Choir</h3>
+        <p>Two-time National Federation of Music Clubs Award</p>
+        <a class="btn btn-outline" href="music-awards.html">Open</a>
+      </article>
+
+      <article class="card">
+        <h3>Solar Energy Project</h3>
+        <p>Led solar electrification in Nigeria — community impact</p>
+        <a class="btn btn-outline" href="solar-energy-project.html">Open</a>
+      </article>
+
+      <article class="card">
+        <h3>Community Service & Mentoring</h3>
+        <p>Mentor at Pine Lake Covenant Church · Sports camp leader</p>
+        <a class="btn btn-outline" href="community-service.html">Open</a>
+      </article>
+
+      <article class="card">
+        <h3>Skills & Strengths</h3>
+        <p>Leadership · Problem-solving · Teamwork · Creativity</p>
+        <a class="btn btn-outline" href="skills-strengths.html">Open</a>
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer container">
+    <p>© <span id="year"></span> Samuel Adeniyi</p>
+  </footer>
+
+  <script src="../assets/script.js" defer></script>
+</body>
+</html>
