@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Music & Awards — Samuel Adeniyi</title>
+  <link href="../assets/styles.css" rel="stylesheet">
+</head>
+<body>
+<header class="site-header"><div class="container header-inner"><a class="brand" href="/">Samuel Adeniyi</a></div></header>
+
+<main class="container section">
+  <h1>Music — Piano, Choir & Awards</h1>
+  <div class="card">
+    <h2>Performances & Involvement</h2>
+    <p>Active in piano performance, choir, and band. I have performed in school events and competitions, building discipline and stage experience.</p>
+
+    <h2>Awards</h2>
+    <p>Two-time winner of the National Federation of Music Clubs Award — recognition for musical excellence and performance quality.</p>
+  </div>
+</main>
+
+<footer class="site-footer container"><p>© <span id="year"></span> Samuel Adeniyi</p></footer>
+<script src="../assets/script.js" defer></script>
+</body>
+</html>
