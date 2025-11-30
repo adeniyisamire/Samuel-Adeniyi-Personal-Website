@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>IYAB — Samuel Adeniyi</title><link href="../assets/styles.css" rel="stylesheet"></head>
+<body>
+<header class="site-header"><div class="container header-inner"><a class="brand" href="/">Samuel Adeniyi</a></div></header>
+<main class="container section">
+  <h1>Issaquah Youth Advisory Board (IYAB)</h1>
+  <div class="card">
+    <p>Participated in organizing community events and advocating for youth-focused initiatives across the district. Represented Skyline High School and proposed initiatives to support student wellbeing and engagement.</p>
+    <p>Through being skyline High school ASB Director of Communications, i helped implement changes towards the city by creating social media for the city so there is better communication for everyone in the city.</p>
+
+  </div>
+</main>
+<footer class="site-footer container"><p>© <span id="year"></span> Samuel Adeniyi</p></footer>
+<script src="../assets/script.js" defer></script>
+</body>
+</html>
